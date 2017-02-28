@@ -1,0 +1,19 @@
+{
+  "name": "topolr-router",
+  "version": "0.0.1",
+  "description": "router of topolr",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.oschina.net/hou80houzhu/topolr-router.git"
+  },
+  "keywords": [
+    "router",
+    "topolr"
+  ],
+  "author": "hou80houzhu",
+  "license": "MIT"
+}
