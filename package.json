@@ -1,6 +1,6 @@
 {
   "name": "topolr-router",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "router of topolr",
   "main": "main.js",
   "scripts": {
@@ -8,12 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.oschina.net/hou80houzhu/topolr-router.git"
+    "url": "https://github.com/topolr/topolr-router.git"
   },
   "keywords": [
     "router",
     "topolr"
   ],
-  "author": "hou80houzhu",
-  "license": "MIT"
+  "author": {
+    "name": "WangJinliang(hou80houzhu)",
+    "email": "hou80houzhu@vip.qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/topolr/topolr-router/issues"
+  },
+  "homepage": "http://topolr.org/",
+  "license": {
+    "type": "MIT"
+  }
 }
